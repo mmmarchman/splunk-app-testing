@@ -3,3 +3,4 @@ cicd/test/node_modules/
 cicd/test/cypress/videos/
 testing_app/local/
 
+/.idea/
